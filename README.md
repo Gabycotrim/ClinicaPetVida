@@ -1,9 +1,3 @@
-Objetivo
+Segue link do video de apresentação do projeto:
 
-Arquitetura
-
-Tecnologias
-
-Estrutura
-
-Como executar
+https://youtu.be/a4Gxw9XazfY 
